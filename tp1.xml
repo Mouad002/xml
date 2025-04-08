@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE bourse 
+<!DOCTYPE bourse SYSTEM "tp1.dtd"> 
 <bourse>
 	<societe type="banque">
 		<codeSociete>SGMB</codeSociete>
