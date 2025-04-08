@@ -11,7 +11,5 @@
             <cotation num="25" dateCotation="2010-01-03" valeurAction="720" />
 		</cotations>
 	</societe>
-	<societe type="assurance">
-    
-    </societe>
+	<societe type="assurance"/>
 </bourse>
