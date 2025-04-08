@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bourse 
+<bourse>
+	<societe type="banque">
+		<codeSociete>SGMB</codeSociete>
+		<nomSociete>Société Générale</nomSociete>
+		<dateIntroduction>2000-11-01</dateIntroduction>
+		<cotations>
+			<cotation num="23" dateCotation="2025-01-01" valeurAction="650"/>
+			<cotation num="24" dateCotation="2025-01-02" valeurAction="680"/>
+            <cotation num="25" dateCotation="2010-01-03" valeurAction="720" />
+		</cotations>
+	</societe>
+	<societe type="assurance">
+    
+    </societe>
+</bourse>

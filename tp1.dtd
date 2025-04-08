@@ -1,0 +1,9 @@
+<!ELEMENT bourse(societe+)>
+<!ELEMENT societe(codeSociete?, nomSociete?, dateIntroduction?, cotations?)>
+<!ELEMENT cotations(cotation+)>
+<!ELEMENT cotation EMPTY>
+<!ATTLIST societe(banque | assurance) 'banque'>
+<!ATTLIST cotation 
+    num NMTOKEN #REQUIRED
+    dateCotation CDATA #REQUIRED
+    valeurAction NMTOKEN #REQUIRED>
