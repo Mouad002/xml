@@ -1,0 +1,10 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="truc">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="machin" type="xsd:string" minOccurs="2" maxOccurs="2" />
+                <xsd:element name="bidule" type="xsd:integer" maxOccurs="unbounded" />
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>

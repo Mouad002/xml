@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<truc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="ex2.xsd">
+    <machin>new machine</machin>
+    <machin>new machine</machin>
+    <bidule>112</bidule>
+    <bidule>6234</bidule>
+    <bidule>7225</bidule>
+    <bidule>12223</bidule>
+    <bidule>2324</bidule>
+    <bidule>3522</bidule>
+    <bidule>892</bidule>
+</truc>

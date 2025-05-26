@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<truc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="ex1.xsd">
+    <machin>war machine</machin>
+    <machin>dishes machine</machin>
+    <bidule>999</bidule>
+</truc>
